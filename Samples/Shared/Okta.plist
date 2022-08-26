@@ -3,14 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>issuer</key>
-	<string>https://{orgDomain}/oauth2/default</string>
+	<string>https://dev-30254280.okta.com/oauth2/default</string>
 	<key>clientId</key>
-	<string>{clientId}</string>
+	<string>0oa569a49prlhviqF5d7
+&lt;!DOCTYPE plist PUBLIC &quot;-//Apple//DTD PLIST 1.0//EN&quot; &quot;http://www.apple.com/DTDs/PropertyList-1.0.dtd&quot;&gt;
+&lt;plist version=&quot;1.0&quot;&gt;
+&lt;string&gt;0oa569a49prlhviqF5d7&lt;/string&gt;
+&lt;/plist&gt;&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE plist PUBLIC &quot;-//Apple//DTD PLIST 1.0//EN&quot; &quot;http://www.apple.com/DTDs/PropertyList-1.0.dtd&quot;&gt;
+&lt;plist version=&quot;1.0&quot;&gt;
+&lt;string&gt;0oa569a49prlhviqF5d7&lt;/string&gt;
+&lt;/plist&gt;
+</string>
 	<key>scopes</key>
 	<string>openid profile offline_access device_sso</string>
 	<key>redirectUri</key>
-	<string>{appScheme}:/callback</string>
+	<string>com.okta.dev-30254280:/callback</string>
 	<key>logoutRedirectUri</key>
-	<string>{appScheme}:/</string>
+	<string>com.okta.dev-30254280:/</string>
 </dict>
 </plist>
